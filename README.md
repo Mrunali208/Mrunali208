@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mrunali Patil
+👋 Hi , I'm Mrunali Patil
 
-### 💻 Data Analyst | Python Developer | Power BI Enthusiast
+💻 Data Analyst | Python Developer | Power BI Enthusiast
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -11,20 +11,20 @@
 
 ---
 
-## 🌐 Connect With Me
+ 🌐 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/patil-mrunali
 * 📧 Email: [patilmrunali775@gmail.com](mailto:patilmrunali775@gmail.com)
 
 ---
 
-## 🛠️ Languages and Tools
+ 🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,java,git,aws" />
 </p>
 
-### 📊 Analytics Tools
+ 📊 Analytics Tools
 
 * Power BI
 * Tableau
@@ -33,18 +33,9 @@
 * NumPy
 * Matplotlib
 * Streamlit
-
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrunali208\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunali208\&layout=compact\&theme=tokyonight)
-
----
-
-## 🚀 Projects
+🚀 Projects
 
 ### 📌 Sales Performance Dashboard
 
