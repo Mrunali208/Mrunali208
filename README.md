@@ -1,28 +1,37 @@
 👋 Hi , I'm Mrunali Patil
 
-💻 Data Analyst | Python Developer | Power BI Enthusiast
+💻 Aspiring Data Analyst | Python | SQL | Power BI | AWS | Data Visualization
 
 🌱 Passionate about Data Analytics & AI
-📊 Skilled in Python, SQL, Power BI & Tableau
+📊 Skilled in Python, SQL, Power BI & Tableau & AWS
 🚀 Building real-world analytics and forecasting projects
 🎯 Focused on transforming raw data into meaningful insights
 
 ---
 
- 🌐 Connect With Me
+🌐 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/patil-mrunali
-* 📧 Email: [patilmrunali775@gmail.com](mailto:patilmrunali775@gmail.com)
+  
+---
+
+📈 GitHub Stats
+
+![Mrunali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrunali208&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunali208&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mrunali208)
 
 ---
 
- 🛠️ Languages and Tools
+🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,java,git,aws" />
 </p>
 
- 📊 Analytics Tools
+📊 Analytics Tools
 
 * Power BI
 * Tableau
